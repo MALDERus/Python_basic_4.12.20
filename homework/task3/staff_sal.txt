@@ -1,0 +1,7 @@
+Ivanov 50000
+Petrov 17000
+Sidorov 58000
+Smith 19000
+Freeman 77000
+Price 18000
+Connor 15000
